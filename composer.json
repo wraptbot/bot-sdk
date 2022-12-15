@@ -1,7 +1,6 @@
 {
   "name": "wraptbot/telegram-bot-sdk",
   "description": "telegram bot sdk",
-  "minimum-stability": "stable",
   "version": "1.0",
   "license": "MIT",
   "type": "library",
